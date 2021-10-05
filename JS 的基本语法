@@ -46,7 +46,7 @@ foo: {
   break foo;
   console.log('本行不会输出')
 }
-console。log（2）
+console.log（2）
 ```
 面试点
 {
